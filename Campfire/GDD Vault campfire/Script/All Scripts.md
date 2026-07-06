@@ -1,3 +1,4 @@
+### Toggle fire VFX Graph
 The script creates a toggle key to enable and disable the fire effects 
 
 ### Toggle Fire Particle 

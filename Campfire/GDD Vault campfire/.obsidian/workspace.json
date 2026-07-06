@@ -49,8 +49,7 @@
               "title": "SmokeBurst"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,13 +211,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "d6e98c54ae3d751f",
+  "active": "59f871f8b92405b4",
   "lastOpenFiles": [
-    "Particle systems/Campfire.md",
     "Particle systems/Snow.md",
     "Particle systems/SmokeBurst.md",
+    "Particle systems/Campfire.md",
+    "Script/All Scripts.md",
     "VFX/Spark.md",
-    "Script/Toggle fire VFX Graph.md",
     "Script",
     "Particle systems/VFX.md",
     "VFX",
