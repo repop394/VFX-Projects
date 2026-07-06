@@ -1,0 +1,1 @@
+Used 2d objects to make wood and stacked it to make it look like a fireplace then used a 2d object to make rocks that i put around the fire 

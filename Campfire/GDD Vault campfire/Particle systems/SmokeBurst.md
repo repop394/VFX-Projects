@@ -1,0 +1,1 @@
+This is a small cloud animation the fire makes when using spacebar to put it out it has a particle system that i changed duration to 0.05 and changed start lifetime and start speed to random between two constants changed start colour to white changed the max particles enabled emission, shape, colour over lifetime, texture sheet animation and renderer.

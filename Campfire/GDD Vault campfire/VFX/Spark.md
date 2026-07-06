@@ -1,0 +1,1 @@
+Added a particle system set the duration to 5 enabled looping changed start lifetime to 1.8 and start speed to 1.2 changed the start size to random between two constants changed the max particles enabled emission, shape, colour over lifetime, size over lifetime, noise and Renderer 
